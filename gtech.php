@@ -12,7 +12,7 @@ function update()
     }
     
 system("clear");
-redhawk_banner();
+gtech_banner();
 if (extension_loaded('curl') || extension_loaded('dom'))
   {
   }
